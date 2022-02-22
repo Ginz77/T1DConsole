@@ -1,0 +1,15 @@
+/Users/philginsburg/Projects/T1DConsole/T1DConsole/bin/Debug/net6.0/T1DConsole
+/Users/philginsburg/Projects/T1DConsole/T1DConsole/bin/Debug/net6.0/T1DConsole.deps.json
+/Users/philginsburg/Projects/T1DConsole/T1DConsole/bin/Debug/net6.0/T1DConsole.runtimeconfig.json
+/Users/philginsburg/Projects/T1DConsole/T1DConsole/bin/Debug/net6.0/T1DConsole.dll
+/Users/philginsburg/Projects/T1DConsole/T1DConsole/bin/Debug/net6.0/T1DConsole.pdb
+/Users/philginsburg/Projects/T1DConsole/T1DConsole/obj/Debug/net6.0/T1DConsole.csproj.AssemblyReference.cache
+/Users/philginsburg/Projects/T1DConsole/T1DConsole/obj/Debug/net6.0/T1DConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/philginsburg/Projects/T1DConsole/T1DConsole/obj/Debug/net6.0/T1DConsole.AssemblyInfoInputs.cache
+/Users/philginsburg/Projects/T1DConsole/T1DConsole/obj/Debug/net6.0/T1DConsole.AssemblyInfo.cs
+/Users/philginsburg/Projects/T1DConsole/T1DConsole/obj/Debug/net6.0/T1DConsole.csproj.CoreCompileInputs.cache
+/Users/philginsburg/Projects/T1DConsole/T1DConsole/obj/Debug/net6.0/T1DConsole.dll
+/Users/philginsburg/Projects/T1DConsole/T1DConsole/obj/Debug/net6.0/refint/T1DConsole.dll
+/Users/philginsburg/Projects/T1DConsole/T1DConsole/obj/Debug/net6.0/T1DConsole.pdb
+/Users/philginsburg/Projects/T1DConsole/T1DConsole/obj/Debug/net6.0/T1DConsole.genruntimeconfig.cache
+/Users/philginsburg/Projects/T1DConsole/T1DConsole/obj/Debug/net6.0/ref/T1DConsole.dll

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{86FECAC4-D71E-4DF0-9A3C-0B34437FCC59}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.T1DConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="T1DConsole/Classes/Calculations.cs">
+    <Files>
+      <File FileName="T1DConsole/Classes/Calculations.cs" Line="26" Column="1" />
+      <File FileName="T1DConsole/Program.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="T1DConsole" expanded="True">
+            <Node name="T1DConsole" expanded="True">
+              <Node name="Classes" expanded="True">
+                <Node name="Calculations.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
